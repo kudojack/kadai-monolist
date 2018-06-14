@@ -1,0 +1,8 @@
+@charset"UTF-8";
+
+body{
+    background-image: url("mypic.jpg")
+	background-attachment : fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
